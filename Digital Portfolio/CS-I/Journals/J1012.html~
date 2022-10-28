@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style>
+      body {
+          background-color: gray;
+	  color: #9e299e;
+      }
+      h1 {
+          color: black;
+      }
+      h2 {
+          color: #470347;
+      }
+      h3 {
+          color: purple;
+      }
+    </style>
+    <meta charset="utf-8">
+    <title>J</title>
+  </head>
+
+  <body>
+    <h1>J1012</h1>
+    <p>Journal Entry 3
+    <p>Name: Nicklaus Spooner</p>
+    <p>Journal: J1012</p>
+    <p>Date: 20-Sep-2022</p>
+
+    <p>I received assistance from: Mina Soliman</p>
+    <p>I assisted: Mina Soliman</p>
+
+    <h2>Section 1:</h2>
+    <h3>1.1: Describe te general process for executing addition, regardless of base. </h3>
+    <p>You just need to forget normal math and switch 10 with the max number for the system in long addition.</p>
+
+    <h2>Section 2:</h2>
+    <h3>2.1: What special factors need to be considered when executing addition with octal numbers?</h3>
+    <p>You need to make sure that when you get to 8 its equal to a normal equation's "10".</p>
+
+    <h2>Section 3:</h2>
+    <h3>3.1: What special factors need to be considered when executing addition with hexadecimal numbers.</h3>
+    <p>You need to make sure that when you get to 16 (F+1) its equal to a normal equation's "10".</p>
+
+    <h2>Section 4:</h2>
+    <h3>4.1: What special factors need to be considered when executing addition with binary numbers?</h3>
+    <p>When you get to 2 you carry 1 and make the placement a 0, and when you get a total of 3 you do the same but instead make the placement a 1.</p>
+  </body>
+  </html>
